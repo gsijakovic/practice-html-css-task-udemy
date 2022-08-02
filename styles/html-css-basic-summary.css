@@ -1,0 +1,70 @@
+header {
+  text-align: center;
+  margin: 12px auto 12px auto;
+  padding: 24px;
+}
+h1 {
+  color: slateblue;
+  font-size: 52px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+img {
+  width: 15%;
+  height: 15%;
+  margin: 12px auto 12px auto;
+}
+
+main {
+  width: 680px;
+  margin: 12px auto 12px auto;
+  background-color: mediumslateblue;
+  color: white;
+  padding: 12px 24px;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  /* text-decoration: solid; */
+}
+span {
+  color: black;
+  font-weight: bold;
+  background-color: rgb(232, 230, 199);
+  padding: 4px;
+}
+ul {
+  list-style: none;
+}
+li {
+  padding: 5px 5px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: blue;
+  text-decoration: underline;
+}
+footer {
+  text-align: center;
+  margin: 12px auto 12px auto;
+}
+#pdf {
+  text-align: center;
+  width: 200px;
+  padding: 15px;
+  background-color: rgb(240, 186, 52);
+  margin: 12px auto 12 px auto;
+  display: inline-block;
+  font-size: 14px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+}
+.decoration-li {
+    color: rgb(241, 228, 183);
+    list-style: square;
+}
